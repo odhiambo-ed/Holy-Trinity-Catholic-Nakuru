@@ -2190,6 +2190,21 @@ section {
   background: #e6573f;
 }
 
+#footer .getstarted,
+#footer .getstarted:focus {
+  background: #e96b56;
+  padding: 8px 26px;
+  margin-left: 30px;
+  border-radius: 4px;
+  color: #fff;
+}
+
+#footer .getstarted:hover,
+#footer .getstarted:focus:hover {
+  color: #fff;
+  background: #ec7f6d;
+}
+
 #footer .footer-top {
   background: #3b3b3b;
   border-top: 1px solid #474747;
